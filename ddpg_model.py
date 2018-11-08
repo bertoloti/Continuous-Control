@@ -1,3 +1,10 @@
+'''
+The code is referred from
+1. https://github.com/udacity/deep-reinforcement-learning/tree/master/ddpg-pendulum
+'''
+
+
+
 import numpy as np
 
 import torch
